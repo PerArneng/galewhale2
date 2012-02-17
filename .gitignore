@@ -1,2 +1,4 @@
-bin/*.o
-bin/galewhaled
+*.o
+galewhaled
+.DS_Store
+*.dblite
